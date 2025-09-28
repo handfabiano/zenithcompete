@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+npm-debug.log*
+
+# Ambiente
+.env
+.env.local
+.env.production
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Supabase local
+supabase/
+docker-compose.yml
